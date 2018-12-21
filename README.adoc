@@ -264,7 +264,7 @@ Known command ids are put into the following list:
 | <<PACKET_LIST_ZONES>>
 
 | _0x1F_
-| Unknown, actual content returned (uint16_t(0,0))
+| Get scenes
 | BROADCAST?
 | ???
 
