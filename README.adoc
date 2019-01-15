@@ -122,14 +122,26 @@ A device type is sent with status updates to identify the type of the device as 
 | 16
 | Plug / Power socket
 
+| 31
+| Contact Sensor
+
 | 32
 | Motion Sensor
 
-| 64
+| 40
 | Switch (2 switches)
 
-| 65
+| 41
 | Switch (4 switches)
+
+| 42
+| Switch Mini
+
+| 51
+| ?
+
+| 61
+| ?
 
 |===
 
